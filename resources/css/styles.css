@@ -1,5 +1,5 @@
 .header1 {
-  background-image: url("/Users/mikecimino/Projects/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
 .name {
@@ -11,8 +11,15 @@
 
 body {
   text-align: center;
+  font-family: helvetica;
 }
 
 .link {
+  color: white;
+  font-size: 18px;
+}
 
+.process {
+  font-weight: bold;
+  font-size: 32px;
 }
