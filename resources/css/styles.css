@@ -1,4 +1,4 @@
-.header1 {
+.backgroundImg {
   background-image: url("../../resources/images/the-flatiron-building.png");
 }
 
@@ -22,4 +22,29 @@ body {
 .process {
   font-weight: bold;
   font-size: 32px;
+}
+
+.smallHeader {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.headerText {
+  font-size: 14px;
+}
+
+.white {
+  color: white;
+}
+
+.footerDiv {
+  background-color: dimgray;
+  text-align: left;
+  color: white;
+
+}
+
+.footerP {
+  font-size: 11px;
+
 }
